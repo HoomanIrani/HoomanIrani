@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HoomanIrani
 - 👀 I’m interested in Algorithms, AI and Object Oriented Programming 
-- 🌱 I’m currently learning NoSQL, Full Stack Development, and Operating System 
-- 💞️ I’m looking to be a Software Engineer 
+- 🌱 I’m currently Studying CS in San Jose State University and learning NoSQL, Full Stack Development, Cyber Security and Operating System 
+- 💞️ I’m looking to be a Software Engineer
 - 📫 How to reach me hoomanirani@outlook.com
 
 <!---
